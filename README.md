@@ -2,7 +2,7 @@
 
 ## {{project_description}}
 
-![PyPI - License](https://img.shields.io/pypi/l/{{pypi_package_name}})
+![GitHub - License](https://img.shields.io/github/license/{{github_username}}/{{pypi_package_name}})
 [![CI/CD Pipeline](https://github.com/{{github_username}}/{{repo_name}}/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/{{github_username}}/{{repo_name}}/actions/workflows/ci-cd.yml)
 [![codecov](https://codecov.io/github/{{github_username}}/{{repo_name}}/graph/badge.svg?token={{codecov_token}})](https://codecov.io/github/{{github_username}}/{{repo_name}})
 ![PyPI - Version](https://img.shields.io/pypi/v/{{pypi_package_name}})
